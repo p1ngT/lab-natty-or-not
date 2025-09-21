@@ -1,51 +1,62 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O uso do Python nas IAs - Vantagens e desvantagens
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve discussao do uso da linguagem Python com IAs atuais abordando de forma clara e simples vantagens e desvantagens
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IAs generaticas como ChatGPT e Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilzei o seguinte prompt para criacao do conteudo:
+    'Voce sera meu consultor em linguagem Python e IAs generativas. Crie um texto breve onde ha a explicacao do que é o Python e uma IA generativa, logo apos cite 5 vantagens e 5 desvantagens no uso da linguagem Python com IAs generativas.
+        Cite as IAs que possuem as melhores APIS para uso do Python. Explique de forma simples para alguem que nao conhece os assuntos.'
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O que é Python?
+    
+    Python é uma linguagem de programação muito popular por ser simples, fácil de aprender e poderosa. Ela é usada em várias áreas como desenvolvimento web, análise de dados, automação, inteligência artificial e muito mais. Seu código é fácil de ler, o que ajuda tanto iniciantes quanto profissionais experientes.
+
+O que é uma IA Generativa?
+
+    Uma IA generativa é um tipo de inteligência artificial capaz de criar novos conteúdos, como textos, imagens, músicas ou até códigos, com base em exemplos que ela aprendeu. Ela não só responde perguntas, mas pode gerar algo novo, como uma redação, uma arte ou um diálogo.
+    
+    Um exemplo famoso de IA generativa é o ChatGPT, que pode conversar com pessoas, escrever textos e até criar código.
+
+Vantagens do uso de Python com IAs generativas
+
+    Facilidade de uso – Python é simples de entender, ideal para começar a trabalhar com IA sem muita complicação.
+    
+    Grande quantidade de bibliotecas – Existem muitas ferramentas prontas em Python para IA, como transformers, torch, tensorflow, entre outras.
+    
+    Comunidade ativa – Muitos desenvolvedores usam Python, então é fácil achar ajuda, tutoriais e exemplos.
+    
+    Integração com APIs – Python se conecta facilmente com APIs de IAs generativas, como OpenAI, Hugging Face e Google.
+    
+    Multiplataforma – Pode ser usado em diferentes sistemas operacionais (Windows, Linux, Mac) sem grandes mudanças no código.
+
+Desvantagens do uso de Python com IAs generativas
+
+    Desempenho limitado – Python não é a linguagem mais rápida para tarefas que exigem muito da máquina.
+    
+    Consome muita memória – Trabalhar com modelos grandes pode exigir muito do computador.
+    
+    Problemas com paralelismo – Executar várias tarefas ao mesmo tempo em Python pode ser complicado.
+    
+    Dependência de bibliotecas externas – Muito do que se faz em IA depende de bibliotecas feitas por terceiros.
+    
+    Atualizações frequentes – Ferramentas mudam rápido, e isso pode quebrar códigos antigos.
+
+Melhores APIs de IAs generativas compatíveis com Python
+
+    OpenAI (ChatGPT, DALL·E) – Permite gerar textos e imagens com comandos simples em Python.
+    
+    Hugging Face – Oferece uma variedade enorme de modelos prontos para texto, imagem, áudio e muito mais.
+    
+    Anthropic (Claude) – Foco em segurança e respostas úteis, também tem API acessível via Python.
+    
+    Google (Gemini, PaLM) – Oferece modelos poderosos, integráveis ao Python via Google Cloud.
+    
+    Cohere – Uma alternativa mais leve e prática para geração de texto, também com suporte em Python.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A criacao de algo Natty ainda é um desafio pois percebemos que o texto tem um toque de IAs neles ainda. Com o avanco continuo do desenvolvimento das IAs generativas é questao de tempo que essa caracteristica suma e fique quase imperceptivel se o que vimos ou lemos foi ou nao criado por IAs.
